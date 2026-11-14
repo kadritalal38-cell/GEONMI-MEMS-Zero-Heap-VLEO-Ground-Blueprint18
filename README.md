@@ -1,6 +1,7 @@
 # GEONMI-MEMS Zero-Heap VLEO: Next-Generation Sovereign Ground Segment Architecture (Commercial Overview)18
 
 **Legal & Financial Disclaimer:** This public executive overview outlines an independent, self-funded civilian and commercial aerospace infrastructure initiative developed by Legal Researcher Mohamed Talal Kadri. All projected financial models, efficiency metrics, and deployment timelines presented herein are hypothetical estimates for illustrative purposes only and do not constitute explicit or implicit financial, technical, or contractual guarantees. This architecture is engineered strictly for peaceful, civilian, and commercial satellite operations and holds zero military affiliation.
+This ground station architecture and LEO satellite communication design has been executed in strict compliance with international aerospace and telecommunications standards and protocols, specifically adhering to CCSDS, ITU-R, ECSS (ESA), NASA-STD, and IEEE guidelines.
 
 ## 1. Executive Summary & Value Proposition
 The rapid expansion of Very Low Earth Orbit (VLEO) satellite constellations demands a radical transformation in ground segment economics. Traditional ground stations suffer from prohibitive civil construction costs, multi-year regulatory bottlenecks, high operational energy footprints, and signal degradation caused by terrestrial radio-frequency congestion. 
