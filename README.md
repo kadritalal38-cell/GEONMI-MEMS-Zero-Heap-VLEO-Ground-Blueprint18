@@ -8,6 +8,8 @@ The rapid expansion of Very Low Earth Orbit (VLEO) satellite constellations dema
 
 **GEONMI-MEMS Zero-Heap VLEO** bridges this infrastructure gap by introducing an integrated, turnkey ground segment paradigm. By harmonizing proprietary geo-physical site methodologies, rapid-deployment modular hardware, off-grid energy independence, and deterministic real-time software execution, this blueprint delivers carrier-grade reliability at a fraction of conventional capital and operational expenditures.
 
+<img width="2057" height="1157" alt="IMG-20261114-WA7770" src="https://github.com/user-attachments/assets/e7533f9e-359a-4f6d-bad7-5e453462b9e6" />
+
 ## 2. Strategic Operational Outcomes
 Rather than relying on legacy, brute-force engineering, the architecture achieves superior performance across four critical operational pillars:
 - **Ultra-Fast Time-to-Orbit:** Eliminates protracted civil engineering and permanent-structure permitting cycles, compressing site deployment from years to mere weeks.
