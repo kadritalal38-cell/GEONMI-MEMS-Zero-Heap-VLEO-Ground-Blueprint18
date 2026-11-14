@@ -34,6 +34,7 @@ Designed specifically for commercial constellation operators, teleport providers
 - High-Throughput Low-Latency Broadband & IoT Networks
 - Sovereign Civilian Space Agencies & Academic Research Consortia
 - Ground-Station-as-a-Service (GSaaS) Infrastructure Providers
+<img width="1809" height="1193" alt="IMG-20261114-WA7525" src="https://github.com/user-attachments/assets/dd2dac27-9725-4125-802c-06f245e79c45" />
 
 ## 5. Intellectual Property, Confidentiality (NDA) & Acquisition Inquiries
 **Official Proprietary Notice & Repository Status:** The underlying technical blueprints, CAD schematics, geo-physical matrices, link-budget algorithms, and **ISO C++17 Zero-Heap** source code repositories (`VLEO-16` and `Fleet-Scheduler`) are strictly **closed-source, confidential, and proprietary**. 
