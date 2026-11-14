@@ -25,6 +25,8 @@ Designed specifically for commercial constellation operators, teleport providers
 - **RF Hardware Optimization (40% – 50% Savings):** Minimizes the need for complex, high-maintenance filtering infrastructure through intelligent environmental optimization.
 - **Enterprise-Grade Availability (99.99% Uptime):** Built on fault-tolerant, N+1 redundant hardware and deterministic edge compute architectures to protect Service Level Agreements (SLAs).
 
+<img width="1835" height="1012" alt="IMG-20261114-WA7195" src="https://github.com/user-attachments/assets/e038524b-421f-45f1-ba93-9212b90658d7" />
+
 ## 4. Target Commercial Applications
 - Commercial Earth Observation (EO) & Remote Sensing Constellations
 - High-Throughput Low-Latency Broadband & IoT Networks
