@@ -42,7 +42,7 @@ Designed specifically for commercial constellation operators, teleport providers
 
 **Sole Owner & Legal Researcher:** Mohamed Talal Kadri  
 **Commercial Acquisition & Licensing Inquiries:**  
-- Primary Email: `Kadritalal38@gmail.com`  
-- Secondary Email: `talal.works38@gmail.com`  
+- Primary Email:kadritalal38@gmail.com 
+- Secondary Email: `talal.works38@gmail.com
 
 **Copyright © 2026 Mohamed Talal Kadri. All Rights Reserved.**
